@@ -162,7 +162,7 @@ income stream)
 Further looking at how many class c buildings are present in different
 data sections,
 
-![](class_c_ratio_1.png)<!-- -->
+![](Class_c_ratio_1.png)<!-- -->
 
 After some eyeballing on the summary statistics, we can say the
 following about buildings with less than 60% occupancy(set60):
